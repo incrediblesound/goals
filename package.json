@@ -1,0 +1,12 @@
+{
+  "name": "goals",
+  "version": "1.0.0",
+  "description": "A utility for organizing resources around personal goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["productivity", "personal development"],
+  "author": "James Edwards",
+  "license": "MIT"
+}
